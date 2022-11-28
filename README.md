@@ -282,4 +282,4 @@ Return the library filtered to match the specified author
 	}
 ]
 ```
-## In the **rsc** folder there is a [file](./rsc/LibraryAPI_insomnia.json) which can be imported in Insomia
+## In the **src** folder there is a [file](./rsc/LibraryAPI_insomnia.json) which can be imported in Insomia
